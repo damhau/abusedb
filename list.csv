@@ -1,0 +1,10 @@
+ipAddress,abuseConfidenceScore,totalReports,countryCode,hostnames,domain,isp
+3.224.220.101,100,1137,US,['3-224-220-101.crawl.amazonbot.amazon'],amazon.com,Amazon Data Services NoVa
+18.220.1.239,66,22,US,['ec2-18-220-1-239.us-east-2.compute.amazonaws.com'],amazon.com,Amazon Technologies Inc.
+80.94.146.21,0,1,CH,[],icrc.org,International Committe of the Red Cross (ICRC)
+85.208.96.193,100,344,US,['193.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+89.117.218.34,18,3,GB,['ggm.compute.dc1.cilix.cloud'],cilix.network,Cilix Limited
+94.154.35.61,3,1,US,['hosted-by.technox.com.tr'],afdrijvenaanvetten.eu,Individual Entrepreneur Dyachenko Valentina Ivanovna
+95.217.190.64,21,4,FI,['static.64.190.217.95.clients.your-server.de'],hetzner.de,Hetzner Online GmbH
+146.70.111.146,100,469,RS,[],m247.com,M247 Ltd Belgrade
+193.142.146.226,100,783,NL,[],hostslick.com,HostSlick
