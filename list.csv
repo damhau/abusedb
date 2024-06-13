@@ -1,10 +1,255 @@
 ipAddress,abuseConfidenceScore,totalReports,countryCode,hostnames,domain,isp
+3.74.63.192,4,1,DE,['ec2-3-74-63-192.eu-central-1.compute.amazonaws.com'],amazon.com,A100 ROW GmbH
 3.224.220.101,100,1137,US,['3-224-220-101.crawl.amazonbot.amazon'],amazon.com,Amazon Data Services NoVa
+3.230.173.188,0,1,US,['ec2-3-230-173-188.compute-1.amazonaws.com'],amazon.com,Amazon Data Services NoVa
+5.8.11.194,0,0,RU,[],pinspb.ru,Petersburg Internet Network Ltd.
+5.8.11.235,0,0,RU,[],pinspb.ru,Petersburg Internet Network Ltd.
+5.161.250.180,38,6,US,['static.180.250.161.5.clients.your-server.de'],hetzner.de,Hetzner Online GmbH
+5.182.110.189,0,0,US,[],ipxo.com,IPXO Limited
+5.188.210.91,39,135,RU,[],pinspb.ru,Petersburg Internet Network Ltd.
+8.215.36.85,28,12,ID,[],alicloud.com,Alibaba Cloud (Singapore) Private Limited
 18.220.1.239,66,22,US,['ec2-18-220-1-239.us-east-2.compute.amazonaws.com'],amazon.com,Amazon Technologies Inc.
+20.243.239.34,98,50,JP,[],microsoft.com,Microsoft Corporation
+23.22.35.162,100,1143,US,['23-22-35-162.crawl.amazonbot.amazon'],amazon.com,Amazon Data Services NoVa
+23.94.5.34,0,0,US,['23-94-5-34-host.colocrossing.com'],bluevm.com,Bluevm Communications LLC
+23.95.224.247,0,0,US,['23-95-224-247-host.colocrossing.com'],rue8.com,Lixux OU
+23.236.171.206,4,1,US,[],servermania.com,B2 Net Solutions Inc.
+27.252.4.8,0,0,NZ,['8.4.252.27.dyn.cust.vf.net.nz'],one.nz,One New Zealand Group Limited
+31.173.82.136,0,0,RU,[],megafon.ru,PJSC MegaFon
+31.184.197.21,0,0,RU,[],pinspb.ru,Petersburg Internet Network Ltd.
+34.123.193.54,3,1,US,['54.193.123.34.bc.googleusercontent.com'],google.com,Google LLC
+34.235.48.77,11,8,US,['ec2-34-235-48-77.compute-1.amazonaws.com'],amazon.com,Amazon Technologies Inc.
+35.183.26.106,0,0,CA,['ec2-35-183-26-106.ca-central-1.compute.amazonaws.com'],amazon.com,Amazon Data Services Canada
+36.133.36.164,0,0,CN,[],chinamobileltd.com,China Mobile Communications Corporation
+37.20.196.163,14,2,RU,[],rostelecom.ru,OJSC Rostelecom
+37.27.126.25,51,9,FI,['static.25.126.27.37.clients.your-server.de'],hetzner.de,Hetzner Online GmbH
+37.60.244.188,29,27,DE,['vmi1636993.contaboserver.net'],terratransit.de,TerraTransit AG
+37.60.255.41,38,44,DE,['vmi1821840.contaboserver.net'],contabo.com,Contabo GmbH
+37.60.255.46,34,39,DE,['vmi1821841.contaboserver.net'],contabo.com,Contabo GmbH
+37.60.255.50,39,46,DE,['vmi1821838.contaboserver.net'],contabo.com,Contabo GmbH
+37.139.53.167,80,117,RU,[],pinspb.ru,Petersburg Internet Network Ltd.
+38.152.3.99,0,0,US,[],24shells.net,24Shells Inc.
+38.170.209.83,43,25,US,[],24shells.net,24Shells Inc.
+38.242.139.45,11,4,DE,['vmi927137.contaboserver.net'],contabo.com,Contabo GmbH
+40.77.167.32,0,261,US,['msnbot-40-77-167-32.search.msn.com'],microsoft.com,Microsoft Corporation
+40.77.167.41,100,309,US,['msnbot-40-77-167-41.search.msn.com'],microsoft.com,Microsoft Corporation
+42.83.147.54,53,13,CN,[],cnnic.net.cn,China Network Information Center
+45.89.245.58,49,12,UA,['no-rdns.blank.record'],lankacloudhosting.com,LankaCloud
+45.133.172.199,0,1,GB,[],ipxo.com,IPXO Limited
+46.135.33.202,0,0,CZ,['cst-prg-33-202.cust.vodafone.cz'],vodafone.cz,Vodafone Czech Republic a.s.
+46.148.206.226,96,325,RU,[],wiland.ru,Wiland Ltd
+46.166.19.109,14,3,MD,['host-46-166-19-109.hspa.orange.md'],orange.md,Orange Moldova S.A.
+47.128.23.71,42,49,SG,['ec2-47-128-23-71.ap-southeast-1.compute.amazonaws.com'],amazon.com,Amazon Data Services Singapore
+51.15.132.16,18,6,FR,['16-132-15-51.instances.scw.cloud'],scaleway.com,Scaleway
+51.15.206.189,23,12,FR,['189-206-15-51.instances.scw.cloud'],scaleway.com,Scaleway
+51.15.222.233,24,6,FR,['233-222-15-51.instances.scw.cloud'],scaleway.com,Scaleway
+51.15.244.35,21,6,FR,['35-244-15-51.instances.scw.cloud'],scaleway.com,Scaleway
+51.144.56.96,0,0,NL,[],microsoft.com,Microsoft Limited
+51.158.79.226,25,16,FR,['226-79-158-51.instances.scw.cloud'],scaleway.com,Scaleway
+51.158.107.15,12,7,FR,['15-107-158-51.instances.scw.cloud'],scaleway.com,Scaleway
+51.222.44.176,100,174,CA,['ns5003472.ip-51-222-44.net'],ovh.com,OVH Hosting Inc.
+52.70.240.171,100,1133,US,['52-70-240-171.crawl.amazonbot.amazon'],amazon.com,Amazon Technologies Inc.
+52.204.27.85,3,6,US,['ec2-52-204-27-85.compute-1.amazonaws.com'],amazon.com,Amazon Technologies Inc.
+52.230.152.16,79,58,US,[],microsoft.com,Microsoft Corporation
+52.230.152.17,83,51,US,[],microsoft.com,Microsoft Corporation
+52.230.152.50,100,68,US,[],microsoft.com,Microsoft Corporation
+52.230.152.51,100,68,US,[],microsoft.com,Microsoft Corporation
+52.230.152.100,89,60,US,[],microsoft.com,Microsoft Corporation
+52.230.152.102,70,63,US,[],microsoft.com,Microsoft Corporation
+52.230.152.103,90,69,US,[],microsoft.com,Microsoft Corporation
+52.230.152.113,82,59,US,[],microsoft.com,Microsoft Corporation
+52.230.152.126,99,65,US,[],microsoft.com,Microsoft Corporation
+52.230.152.141,88,60,US,[],microsoft.com,Microsoft Corporation
+52.230.152.164,76,53,US,[],microsoft.com,Microsoft Corporation
+52.230.152.185,72,51,US,[],microsoft.com,Microsoft Corporation
+52.230.152.187,97,59,US,[],microsoft.com,Microsoft Corporation
+52.230.152.196,81,50,US,[],microsoft.com,Microsoft Corporation
+52.230.152.204,74,50,US,[],microsoft.com,Microsoft Corporation
+54.156.251.192,13,8,US,['ec2-54-156-251-192.compute-1.amazonaws.com'],amazon.com,Amazon Technologies Inc.
+54.198.55.229,21,13,US,['ec2-54-198-55-229.compute-1.amazonaws.com'],amazon.com,Amazon Data Services NoVa
+61.245.7.130,45,19,PH,[],infinivan.com,Infinivan Customer
+62.167.164.23,0,0,CH,['xcpe-62-167-164-23.cgn.res.adslplus.ch'],hispeed.ch,Sunrise GmbH
+62.171.165.202,31,28,DE,['vmi872300.contaboserver.net'],contabo.com,Contabo GmbH
+66.249.65.72,0,0,US,['crawl-66-249-65-72.googlebot.com'],google.com,Google LLC
+66.249.69.173,0,0,US,['crawl-66-249-69-173.googlebot.com'],google.com,Google LLC
+66.249.73.235,0,0,US,['crawl-66-249-73-235.googlebot.com'],google.com,Google LLC
+66.249.73.236,0,8,US,['crawl-66-249-73-236.googlebot.com'],google.com,Google LLC
+66.249.73.238,0,5,US,['crawl-66-249-73-238.googlebot.com'],google.com,Google LLC
+68.183.230.133,88,35,SG,[],digitalocean.com,DigitalOcean LLC
+78.142.18.92,100,365,NL,[],colocationx.com,ColocationX Ltd.
 80.94.146.21,0,1,CH,[],icrc.org,International Committe of the Red Cross (ICRC)
+85.193.65.155,100,92,RU,['internet.volnamobile.ru'],volnamobile.ru,KTK Telecom LLC
 85.208.96.193,100,344,US,['193.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.194,100,285,US,['194.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.195,100,308,US,['195.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.196,100,281,US,['196.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.197,100,288,US,['197.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.198,100,292,US,['198.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.199,100,300,US,['199.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.200,100,317,US,['200.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.201,100,279,US,['201.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.202,100,287,US,['202.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.203,100,281,US,['203.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.204,100,300,US,['204.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.205,100,281,US,['205.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.206,100,330,US,['206.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.207,100,307,US,['207.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.208,100,333,US,['208.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.209,100,324,US,['209.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.210,100,357,US,['210.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.211,100,303,US,['211.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.96.212,100,296,US,['212.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+85.208.98.18,95,281,US,['bot.semrush.com'],semrush.com,SEMRush CY Ltd
+87.249.132.115,33,5,DE,['unn-87-249-132-115.datapacket.com'],datacamp.co.uk,DataCamp Limited
+89.105.220.130,27,4,US,[],novoserve.com,Novoserve B.V.
 89.117.218.34,18,3,GB,['ggm.compute.dc1.cilix.cloud'],cilix.network,Cilix Limited
+91.92.243.222,100,203,NL,[],limenet.io,LIMENET
+92.21.159.114,0,0,GB,['host-92-21-159-114.as13285.net'],talktalkbusiness.co.uk,TalkTalk Communications Limited
+93.254.174.2,0,0,DE,['p5dfeae02.dip0.t-ipconnect.de'],telekom.de,Deutsche Telekom AG
 94.154.35.61,3,1,US,['hosted-by.technox.com.tr'],afdrijvenaanvetten.eu,Individual Entrepreneur Dyachenko Valentina Ivanovna
 95.217.190.64,21,4,FI,['static.64.190.217.95.clients.your-server.de'],hetzner.de,Hetzner Online GmbH
+96.9.76.205,14,14,KH,['205.76.9.96.sinet.com.kh'],sigroups.com,S.I Group
+98.188.47.150,61,36,US,[],cox.com,Cox Communications LLC
+102.129.153.160,0,0,US,[],host1plus.com,DET Africa (Pty) Ltd
+102.129.153.203,0,0,US,[],host1plus.com,DET Africa (Pty) Ltd
+102.129.232.89,0,0,US,[],host1plus.com,Digital Energy Technologies Limited
+102.165.16.219,9,3,US,[],host1plus.com,Digital Energy Technologies Chile Spa
+103.125.48.202,33,35,ID,[],myrepublic.net.id,PT. Eka Mas Republik
+103.153.3.106,59,18,ID,[],centratm.com,PT Centra Telesindo Multimedia
+103.155.47.12,29,15,ID,[],pronet.id,PT Profesional Internet Indonesia
+103.171.109.115,43,9,IN,[],oasisnetwork.in,Icice Tech
+103.184.192.155,25,16,IN,[],webwerks.in,Tridhati System Solutions LLP
+103.240.99.181,59,23,IN,['node-103-240-99-181.alliancebroadband.in'],alliancekolkata.co.in,Alliance Broadband Services Pvt. Ltd.
+104.248.48.221,0,0,US,[],digitalocean.com,DigitalOcean LLC
+107.150.40.62,23,8,US,[],nocix.net,Nubetv
+107.152.46.79,26,27,US,[],cloudfanatic.net,CloudFanatic
+109.104.153.111,51,19,NL,[],oneprovider.com,oneprovider.com - Amsterdam Infrastructure
+109.236.93.77,37,21,NL,['109-236-93-77.hosted-by-worldstream.net'],worldstream.nl,WorldStream B.V.
+109.248.204.223,35,13,RU,[],biterika.ru,Biterika Group LLC
+110.137.37.97,13,2,ID,[],telkom.co.id,PT Telkom Indonesia
+114.119.129.128,20,38,SG,['petalbot-114-119-129-128.petalsearch.com'],huawei.com,Huawei International Pte. Ltd.
+114.119.130.91,25,36,SG,['petalbot-114-119-130-91.petalsearch.com'],huawei.com,Huawei International Pte. Ltd.
+114.119.149.252,27,35,SG,['petalbot-114-119-149-252.petalsearch.com'],huawei.com,Huawei International Pte. Ltd.
+114.119.150.65,24,29,SG,['petalbot-114-119-150-65.petalsearch.com'],huawei.com,Huawei International Pte. Ltd.
+121.184.19.115,22,13,KR,[],kt.com,KT Corporation
+131.108.18.5,13,2,BR,[],udasha.com,Brasil Brasil
+144.126.148.236,37,37,US,['vmi852861.contaboserver.net'],contabo.com,Contabo Inc.
+146.70.111.132,100,205,RS,[],m247.com,M247 Ltd Belgrade
+146.70.111.138,100,194,RS,[],m247.com,M247 Ltd Belgrade
 146.70.111.146,100,469,RS,[],m247.com,M247 Ltd Belgrade
+146.70.130.137,77,23,IE,[],m247.com,M247 Europe - Dublin Infrastructure
+148.163.53.177,75,19,US,['daddyrdp.com'],rdpdaddy.com,daddyrdp.com
+149.40.50.120,14,5,US,['unn-149-40-50-120.datapacket.com'],datacamp.co.uk,DataCamp Limited
+152.59.95.22,3,1,IN,[],ril.com,Reliance Jio Infocomm Limited
+154.12.106.42,0,0,US,[],code200.global,Code 200 UAB
+154.12.111.106,0,0,US,[],code200.global,Code 200 UAB
+154.12.228.10,43,29,US,['vmi840885.contaboserver.net'],contabo.com,Contabo Inc
+154.13.125.133,0,0,US,[],servermania.com,ServerMania Inc/Server Mania
+154.21.239.59,35,14,US,[],solidsystems.us,Solid Systems LLC
+154.38.156.145,41,21,US,[],instantip.com,Instantip.com LLC
+157.230.255.137,100,47,SG,[],digitalocean.com,DigitalOcean LLC
+159.89.198.191,89,28,SG,[],digitalocean.com,DigitalOcean LLC
+159.223.96.124,19,6,US,[],digitalocean.com,DigitalOcean LLC
+162.23.30.14,0,0,CH,[],bit.admin.ch,Swiss Federation Represented by FOITT
+162.212.158.230,32,8,US,[],cloudfanatic.net,Cloudfanatic.NET
+163.5.30.162,46,32,FR,[],ionis-group.com,Ionis Group - Ionis Schools of Technology and Management SAS
+163.5.91.102,40,23,US,[],ionis-group.com,Ionis Group - Ionis Schools of Technology and Management SAS
+165.227.90.227,12,7,US,[],digitalocean.com,DigitalOcean LLC
+165.231.24.176,26,6,SC,[],fibergrid.eu,Fiber Grid Inc
+165.231.24.192,2,1,SE,[],fibergrid.eu,Fiber Grid Inc
+167.99.78.112,50,10,SG,[],digitalocean.com,DigitalOcean LLC
+167.160.78.228,0,0,US,['host-167-160-78-228.static.sprious.com'],sprious.com,Sprious LLC
+172.56.24.39,2,1,US,[],t-mobile.com,T-Mobile USA Inc.
+172.56.24.56,0,0,US,[],t-mobile.com,T-Mobile USA Inc.
+172.58.181.124,0,1,US,[],t-mobile.com,T-Mobile USA Inc.
+173.213.93.132,0,0,DE,[],eonix.net,Eonix Corporation
+173.239.214.82,28,9,US,[],peachyproxies.com,NSQ Venture
+173.239.214.85,41,13,US,[],peachyproxies.com,NSQ Venture
+173.239.214.87,31,11,US,[],peachyproxies.com,NSQ Venture
+173.239.214.106,23,9,US,[],peachyproxies.com,NSQ Venture
+173.239.214.107,27,8,US,[],peachyproxies.com,NSQ Venture
+178.128.94.78,100,76,SG,[],digitalocean.com,DigitalOcean LLC
+178.128.119.217,66,22,SG,[],digitalocean.com,DigitalOcean LLC
+178.128.209.196,45,9,SG,[],digitalocean.com,DigitalOcean LLC
+178.159.37.4,100,96,UA,['dedic1558.hidehost.net'],hidehost.net,Slobozhenyuk B.Y. PE
+178.159.37.55,100,132,UA,['dedic1579.hidehost.net'],hidehost.net,Slobozhenyuk B.Y. PE
+180.251.213.144,0,0,ID,[],telkom.co.id,PT Telkom Indonesia
+181.214.93.225,9,2,US,[],cyberassets.ae,Cyber Assets Fzco
+181.215.182.89,0,1,US,[],ipxo.com,IPXO
+185.148.241.190,47,35,TR,['hostmaster.poyrazhosting.com.tr'],moondc.com,Moon DC
+185.158.106.67,0,0,DE,[],ipxo.com,IPXO Limited
+185.182.65.18,0,0,PL,['undefined.hostname.localhost'],hostinglearn.com,Elisteka UAB
+185.182.65.42,0,0,PL,['undefined.hostname.localhost'],hostinglearn.com,Elisteka UAB
+185.182.65.90,0,0,PL,['undefined.hostname.localhost'],hostinglearn.com,Elisteka UAB
+185.191.171.1,100,309,US,['1.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.2,100,319,US,['2.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.3,100,300,US,['3.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.4,100,278,US,['4.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.5,100,311,US,['5.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.6,100,309,US,['6.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.7,100,315,US,['7.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.8,100,284,US,['8.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.9,100,326,US,['9.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.10,100,296,US,['10.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.11,100,325,US,['11.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.12,100,340,US,['12.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.13,100,340,US,['13.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.14,100,322,US,['14.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.15,100,312,US,['15.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.16,100,289,US,['16.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.17,100,334,US,['17.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.18,100,258,US,['18.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+185.191.171.19,100,295,US,['19.bl.bot.semrush.com'],semrush.com,SEMRush CY Ltd
+188.166.231.255,27,7,SG,[],digitalocean.com,DigitalOcean LLC
+191.96.181.103,3,1,BR,[],heficed.com,Heficed
+192.3.255.222,21,4,US,['192-3-255-222-host.colocrossing.com'],myserverplanet.com,My Server Planet LLC
+192.44.68.163,41,22,US,[],crashlytics.com,Crashlytics Inc
+192.186.159.221,4,1,US,['meiocenesophie.com'],servermania.com,B2 Net Solutions Inc.
+192.227.94.171,41,35,US,['out43.dismailsend.com'],cloudsouth.com,Cloud South
+192.241.64.243,14,2,US,[],servermania.com,B2 Net Solutions Inc.
+192.241.111.124,13,2,US,[],servermania.com,B2 Net Solutions Inc.
 193.142.146.226,100,783,NL,[],hostslick.com,HostSlick
+194.147.114.233,0,0,RU,['56703.web.hosting-russia.ru'],argotel.ru,Gilmutdinov Ildar Aydarovich
+196.51.35.47,52,35,US,[],e-comcloud.com,E-Com Cloud Solution Co. Ltd
+196.199.104.59,0,0,GB,[],fibergrid.eu,Fiber Grid Inc
+196.240.143.228,28,6,CA,[],fibergrid.eu,Fiber Grid Inc
+196.242.20.79,30,7,NL,[],fibergrid.eu,Fiber Grid Inc
+196.242.46.161,2,1,US,[],fibergrid.eu,Fiber Grid Inc
+198.20.182.246,0,0,US,['realwebsignature.com'],servermania.com,B2 Net Solutions Inc.
+198.245.72.15,4,1,US,[],servermania.com,B2 Net Solutions Inc.
+199.102.107.145,79,33,US,['ip-199-102-107-145.hosts.zerolag.com'],performive.com,Performive LLC
+2001:41d0:601:2000::fd1,0,0,PL,[],ovh.com,OVH SAS
+2001:41d0:601:2000::156e,0,0,PL,[],ovh.com,OVH SAS
+2001:41d0:601:2000::1c88,0,0,PL,[],ovh.com,OVH SAS
+203.170.129.105,0,1,TH,[],hostatom.com,IDC-BR Customer
+203.211.128.212,0,0,SG,['tesla.entrustnetwork.net'],m1net.com.sg,M1 Net Ltd
+206.81.0.31,31,26,US,[],digitalocean.com,DigitalOcean LLC
+207.46.13.102,0,100,US,['msnbot-207-46-13-102.search.msn.com'],microsoft.com,Microsoft Corporation
+209.127.41.199,38,22,CA,['ef0efd7.irdelleseesetines.com'],servermania.com,B2 Net Solutions Inc.
+212.102.35.32,89,57,NL,['unn-212-102-35-32.cdn77.com'],datacamp.co.uk,DataCamp Limited
+216.244.66.241,65,105,US,[],wowrack.com,Wowrack.com
+220.134.249.220,32,80,TW,['220-134-249-220.hinet-ip.hinet.net'],cht.com.tw,Chunghwa Telecom Co. Ltd.
+221.158.213.183,34,54,KR,[],kt.com,KT Corporation
+222.175.129.46,0,0,CN,[],chinatelecom.com.cn,Shandong Telecom Corporation
+223.222.73.136,0,0,KR,[],skbroadband.com,SK Broadband Co Ltd
+2605:a140:2084:885::1,0,0,US,['vmi840885.contaboserver.net'],contabo.com,Contabo Inc.
+2804:5ea0:3501:c320:1899:9427:a30a:130e,0,0,BR,[],leovin.com.br,First Telecom Ltda
+2a03:2880:2ff:3::face:b00c,0,41,US,['fwdproxy-cco-003.fbsv.net'],facebook.com,CCO
+2a03:2880:2ff:8::face:b00c,0,39,US,['fwdproxy-cco-008.fbsv.net'],facebook.com,CCO
+2a03:2880:2ff:c::face:b00c,0,23,US,['fwdproxy-cco-012.fbsv.net'],facebook.com,CCO
+2a03:2880:2ff:71::face:b00c,0,17,US,['fwdproxy-cco-113.fbsv.net'],facebook.com,CCO
+2a03:2880:2ff:74::face:b00c,0,41,US,['fwdproxy-cco-116.fbsv.net'],facebook.com,CCO
+2a03:2880:11ff:9::face:b00c,0,33,US,['fwdproxy-ftw-009.fbsv.net'],fuckthatworld.com,FTW
+2a03:2880:13ff:4::face:b00c,0,31,US,['fwdproxy-pnb-004.fbsv.net'],facebook.com,Facebook Inc.
+2a03:2880:13ff:d::face:b00c,0,34,US,['fwdproxy-pnb-013.fbsv.net'],facebook.com,Facebook Inc.
+2a03:2880:13ff:1d::face:b00c,0,30,US,['fwdproxy-pnb-029.fbsv.net'],facebook.com,Facebook Inc.
+2a03:2880:13ff:25::face:b00c,0,19,US,['fwdproxy-pnb-037.fbsv.net'],facebook.com,Facebook Inc.
+2a03:2880:13ff:71::face:b00c,0,13,US,['fwdproxy-pnb-113.fbsv.net'],facebook.com,Facebook Inc.
+2a03:2880:16ff:7c::face:b00c,0,3,IE,['fwdproxy-gtn-124.fbsv.net'],facebook.com,Meta Platforms Ireland Limited
+2a03:2880:22ff:f::face:b00c,0,23,US,['fwdproxy-rva-015.fbsv.net'],facebook.com,RVA
+2a03:2880:22ff:16::face:b00c,0,18,US,['fwdproxy-rva-022.fbsv.net'],facebook.com,RVA
+2a03:2880:22ff:19::face:b00c,0,18,US,['fwdproxy-rva-025.fbsv.net'],facebook.com,RVA
+2a03:2880:27ff:6::face:b00c,0,35,US,['fwdproxy-ldc-006.fbsv.net'],ldc.fr,LDC
+2a03:2880:27ff:72::face:b00c,0,5,US,['fwdproxy-ldc-114.fbsv.net'],ldc.fr,LDC
+2a03:2880:27ff:74::face:b00c,0,44,US,['fwdproxy-ldc-116.fbsv.net'],ldc.fr,LDC
+2a0c:5a82:120e:a100:5822:c47a:155c:2700,0,0,ES,[],digimobil.es,Digi Spain Telecom S.L.
